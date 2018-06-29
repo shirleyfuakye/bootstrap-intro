@@ -1,0 +1,21 @@
+body{
+	font-family: 'Nanum Gothic', sans-serif;
+
+}
+
+img {
+    border-radius: 10%;
+}
+
+a{
+	color: #AABBCC;
+}
+
+.navbar-default{
+	background-color: #F56416;
+	border-color: #F56416;
+}
+
+.navbar-default .navbar-nav>li>a{
+		color: #FFF;
+}
